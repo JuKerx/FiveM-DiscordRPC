@@ -1,2 +1,2 @@
 # FiveM-DiscordRPC
-Discord Rich Presence for FiveM servers in Lua
+Discord RPC Lua script used for my FiveM server back in early 2021
